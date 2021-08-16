@@ -1,0 +1,6 @@
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\EntidadesBD\bin\Debug\EntidadesBD.dll
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\EntidadesBD\bin\Debug\EntidadesBD.pdb
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\EntidadesBD\obj\Debug\EntidadesBD.csproj.CoreCompileInputs.cache
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\EntidadesBD\obj\Debug\EntidadesBD.dll
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\EntidadesBD\obj\Debug\EntidadesBD.pdb
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\EntidadesBD\obj\Debug\EntidadesBD.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\ClassConexion\bin\Debug\ClassConexion.dll
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\ClassConexion\bin\Debug\ClassConexion.pdb
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\ClassConexion\obj\Debug\ClassConexion.csproj.CoreCompileInputs.cache
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\ClassConexion\obj\Debug\ClassConexion.dll
+D:\alexi\Documents\Clases\Remedial 2\Remedial Producto 2\ClassConexion\obj\Debug\ClassConexion.pdb
